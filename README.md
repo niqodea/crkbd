@@ -22,17 +22,17 @@ The layout is based on the following heuristics:
 
 The first layer mostly resembles qwerty.
 
-- `Space` is the only non-modifier key in the thumb cluster. As it is used all the time, it must reside in layer 0 and in a handy spot. Since the home row is taken by qwerty, this is the next logical choice.
+- <kbd>Space</kbd> is the only non-modifier key in the thumb cluster. As it is used all the time, it must reside in layer 0 and in a handy spot. Since the home row is taken by qwerty, this is the next logical choice.
 - The external thumb keys are used to access further layers. I believe these to be a good fit considering their positions as outliers.
-- On the left of `a` we have `Esc` instead of `CAPS`, a remap that many vim users also have on normal keyboards.
-- I have no key for `CAPS`. If necessary, I keep `Shift` pressed while typing letters.
-- Since my workflow requires me to press both `Alt` + `Shift` and `Alt` + `Ctrl`, I put `Alt` on the opposite side of the other two modifiers.
-- The first layer key is positioned in the thumb cluster opposite to `Shift` as layer 1 contains keys that might require shifting.
+- On the left of <kbd>a</kbd> we have <kbd>Esc</kbd> instead of <kbd>CAPS</kbd>, a remap that many vim users also have on normal keyboards.
+- I have no key for <kbd>CAPS</kbd>. If necessary, I keep <kbd>Shift</kbd> pressed while typing letters.
+- Since my workflow requires me to press both <kbd>Alt</kbd> + <kbd>Shift</kbd> and <kbd>Alt</kbd> + <kbd>Ctrl</kbd>, I put <kbd>Alt</kbd> on the opposite side of the other two modifiers.
+- The first layer key is positioned in the thumb cluster opposite to <kbd>Shift</kbd> as layer 1 contains keys that might require shifting.
 
 Shortcomings:
 
-- `Enter` is in an awkward position. However, I did not find it worth it to have `Enter` readily accessible as a thumb key like I did for `Space`. Moreover, having `Enter` as a thumb key would result in significant muscle memory conflicts against traditional keyboards. In the end, I got used to this lower-right pinky position and it currently does not bother me.
-- The `Win` key, i.e. Mac's `Cmd` key, is in an awkward position when it comes to pressing it in combination with `Tab`. While not currently a problem with Windows, I might reconsider its position if I ever use a Mac in the future.
+- <kbd>Enter</kbd> is in an awkward position. However, I did not find it worth it to have <kbd>Enter</kbd> readily accessible as a thumb key like I did for <kbd>Space</kbd>. Moreover, having <kbd>Enter</kbd> as a thumb key would result in significant muscle memory conflicts against traditional keyboards. In the end, I got used to this lower-right pinky position and it currently does not bother me.
+- The <kbd>Win</kbd> key, i.e. Mac's <kbd>Cmd</kbd> key, is in an awkward position when it comes to pressing it in combination with <kbd>Tab</kbd>. While not currently a problem with Windows, I might reconsider its position if I ever use a Mac in the future.
 - Since no more space is left in the thumb clusters, the second layer key is positioned on the bottom left and must reached with the left pinky. This reduces mobility of the other left fingers.
 
 ### Layer 1
@@ -42,15 +42,15 @@ Shortcomings:
 The second layer is for numbers and symbols. You can access it by pressing the left external thumb key.
 
 - Numbers in the home row are very handy and I prefer them to having them at the top row like I have seen in some layouts.
-- You can easily press `Shift` with your right thumb to access all the available symbols.
-- `[` and `]` are just above `(` and `)`.
-- Pass-through still gives you access to useful keys like `Enter` and number-related symbols like `.`.
-- `\` is positioned opposite to `/`.
+- You can easily press <kbd>Shift</kbd> with your right thumb to access all the available symbols.
+- <kbd>[</kbd> and <kbd>]</kbd> are just above <kbd>(</kbd> and <kbd>)</kbd>.
+- Pass-through still gives you access to useful keys like <kbd>Enter</kbd> and number-related symbols like <kbd>.</kbd>.
+- <kbd>\\</kbd> is positioned opposite to <kbd>/</kbd>.
 
 Shortcomings:
 
-- `;` is the only symbol key not accessible in this layer, as it is shadowed by `0`. I thought of positioning `0` somewhere else, but unfortunately that would make `(` and `)` no longer near eachother.
-- The position of `-` and `=` does not really match the original qwerty layout.
+- <kbd>;</kbd> is the only symbol key not accessible in this layer, as it is shadowed by <kbd>0</kbd>. I thought of positioning <kbd>0</kbd> somewhere else, but unfortunately that would make <kbd>(</kbd> and <kbd>)</kbd> no longer near eachother.
+- The position of <kbd>-</kbd> and <kbd>=</kbd> does not really match the original qwerty layout.
 
 ### Layer 2
 
@@ -60,8 +60,8 @@ The third layer is for navigation and function keys. You can access it by pressi
 
 - The arrow keys are positioned to resemble vim arrow keys.
 - Since it is unlikely for symbols to be useful in this layer, we do not pass through those.
-- `Home` and `End` mirror the behavior of the shadowed `Backspace` and `Enter`.
-- `PgDown` and `PgUp` are positioned to resemble vim's `n` and `p`.
+- <kbd>Home</kbd> and <kbd>End</kbd> mirror the behavior of the shadowed <kbd>Backspace</kbd> and <kbd>Enter</kbd>.
+- <kbd>PgDown</kbd> and <kbd>PgUp</kbd> are positioned to resemble vim's <kbd>n</kbd> and <kbd>p</kbd>.
 - Since the left pinky is already being used to access the layer, we position the most used function keys (1 to 4) on the right side of the keyboard for ease of access.
 
 Shortcomings:
@@ -75,6 +75,6 @@ The fourth layer is for media control. You can access it by pressing both layer 
 
 ![Layer 3](images/layer-3.png)
 
-- `Vol-` and `Vol+` are positioned to resemble vim arrow keys.
-- `Next` and `Prev` are positioned to resemble vim's `n` and `p`.
-- `Rewind` and `Play` mirror the behavior of the shadowed `Backspace` and `Enter`.
+- <kbd>Vol-</kbd> and <kbd>Vol+</kbd> are positioned to resemble vim arrow keys.
+- <kbd>Next</kbd> and <kbd>Prev</kbd> are positioned to resemble vim's <kbd>n</kbd> and <kbd>p</kbd>.
+- <kbd>Rewind</kbd> and <kbd>Play</kbd> mirror the behavior of the shadowed <kbd>Backspace</kbd> and <kbd>Enter</kbd>.
