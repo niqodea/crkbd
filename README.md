@@ -32,7 +32,6 @@ The first layer mostly resembles qwerty.
 Shortcomings:
 
 - <kbd>Enter</kbd> is in an awkward position. However, I did not find it worth it to have <kbd>Enter</kbd> readily accessible as a thumb key like I did for <kbd>Space</kbd>. Moreover, having <kbd>Enter</kbd> as a thumb key would result in significant muscle memory conflicts against traditional keyboards. In the end, I got used to this lower-right pinky position and it currently does not bother me.
-- The <kbd>Win</kbd> key, i.e. Mac's <kbd>Cmd</kbd> key, is in an awkward position when it comes to pressing it in combination with <kbd>Tab</kbd>. While not currently a problem with Windows, I might reconsider its position if I ever use a Mac in the future.
 - Since no more space is left in the thumb clusters, the second layer key is positioned on the bottom left and must reached with the left pinky. This reduces mobility of the other left fingers.
 
 ### Layer 1
