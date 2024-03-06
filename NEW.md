@@ -1,0 +1,3 @@
+- Add `CANC` key where in the same position of `x` in the layer 1
+- Add `CAPS` key where in the same position of `c` in the layer 1
+- In layer 3, put `rewind` and `ffd` in place of `h` and `l` (left and right in vim), also `mute` is in the place of `bksp`
