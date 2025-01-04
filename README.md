@@ -11,8 +11,8 @@ Run [usevia.app](https://github.com/the-via/app) and load `layout.json`. You can
 The layout is based on the following heuristics:
 
 - Keys should resemble the original qwerty layout to avoid muscle memory conflicts with traditional keyboards.
-- Mnemonics should be used to minimize cognitive load.
-- Modifier and layer keys should reside in the thumb clusters to prevent awkward key combinations.
+- Mnemonics, like vim-based ones, should be used to minimize cognitive load.
+- Modifier and layer keys should mainly reside in the thumb clusters to prevent awkward key combinations.
 - The most used keys for each layer should reside in the home row.
 - Four layers should be more than enough.
 
@@ -23,7 +23,7 @@ The layout is based on the following heuristics:
 The first layer mostly resembles qwerty.
 
 - <kbd>Space</kbd> is the only non-modifier key in the thumb cluster. As it is used all the time, it must reside in layer 0 and in a handy spot. Since the home row is taken by qwerty, this is the next logical choice.
-- The external thumb keys are used to access further layers. I believe these to be a good fit considering their positions as outliers.
+- The external thumb and pinky keys are used to access further layers. I believe these to be a good fit considering their positions as outliers.
 - On the left of <kbd>a</kbd> we have <kbd>Esc</kbd> instead of <kbd>CAPS</kbd>, a remap that many vim users also have on normal keyboards.
 - I have no key for <kbd>CAPS</kbd>. If necessary, I keep <kbd>Shift</kbd> pressed while typing letters.
 - Since my workflow requires me to press both <kbd>Alt</kbd> + <kbd>Shift</kbd> and <kbd>Alt</kbd> + <kbd>Ctrl</kbd>, I put <kbd>Alt</kbd> on the opposite side of the other two modifiers.
